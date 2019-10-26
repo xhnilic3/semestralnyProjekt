@@ -44,4 +44,8 @@ public class upTo3Point5 extends Vehicle {
     public int getMileage() {return this.mileage; }
 
     public int getYearOfProduction() { return this.yearOfProduction; }
+
+    public int getNumOfDoors() { return this.numOfDoors; }
+
+    public int getNumOfWheels() { return this.numOfWheels; }
 }
