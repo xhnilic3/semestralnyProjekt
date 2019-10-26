@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/upTo3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/upTo3Point5.java" afterDir="false" />
-    </list>
+    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +71,16 @@
       <workItem from="1572087293871" duration="1015000" />
       <workItem from="1572090510237" duration="706000" />
       <workItem from="1572093135589" duration="1294000" />
-      <workItem from="1572104531018" duration="5958000" />
+      <workItem from="1572104531018" duration="6206000" />
     </task>
+    <task id="LOCAL-00001" summary="testing of git tool in IntelliJ">
+      <created>1572114764834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572114764834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing of git tool in IntelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing of git tool in IntelliJ" />
   </component>
 </project>
