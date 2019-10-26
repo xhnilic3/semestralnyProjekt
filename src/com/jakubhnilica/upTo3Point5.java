@@ -25,7 +25,7 @@ public class upTo3Point5 extends Vehicle {
 
 
 
-    public void setFuel(TypeOfFuel fuel) { this.fuel = fuel; }
+    /*public void setFuel(TypeOfFuel fuel) { this.fuel = fuel; }
 
     public void setPrice(double price) { this.price = price; }
 
@@ -59,5 +59,5 @@ public class upTo3Point5 extends Vehicle {
 
     public int getNumOfDoors() { return this.numOfDoors; }
 
-    public int getNumOfWheels() { return this.numOfWheels; }
+    public int getNumOfWheels() { return this.numOfWheels; }*/
 }
