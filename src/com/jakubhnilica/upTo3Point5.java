@@ -32,12 +32,16 @@ public class upTo3Point5 extends Vehicle {
 
 
     public Category getCategory() {
-        return category;
+        return this.category;
     }
 
-    public TypeOfFuel getFuel() { return fuel; }
+    public TypeOfFuel getFuel() { return this.fuel; }
 
     public boolean getTypeOfAd(){ return this.typeOfAd; }
 
     public double getPrice() { return this.price; }
+
+    public int getMileage() {return this.mileage; }
+
+    public int getYearOfProduction() { return this.yearOfProduction; }
 }
