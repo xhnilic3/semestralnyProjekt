@@ -2,12 +2,12 @@ package com.jakubhnilica;
 
 import java.util.Locale;
 
-public class upTo3Point5 extends Vehicle {
+public class UpTo3Point5 extends Vehicle {
 
-    private Category category = Category.UP_TO_3POINT5;
+    private Category category;
     private TypeOfFuel fuel;
 
-    public upTo3Point5(boolean typeOfAd, TypeOfFuel fuel, Category category, int mileage){
+    public UpTo3Point5(boolean typeOfAd, TypeOfFuel fuel, Category category, int mileage){
         this.typeOfAd = typeOfAd;
         this.fuel = fuel;
         this.category = category;
