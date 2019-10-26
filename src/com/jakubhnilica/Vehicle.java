@@ -2,8 +2,8 @@ package com.jakubhnilica;
 
 public class Vehicle {
 
-    private Category category = Category.UP_TO_3POINT5;
-    private TypeOfFuel fuel;
+    Category category;
+    TypeOfFuel fuel;
 
     protected enum Category {
         UP_TO_3POINT5,
