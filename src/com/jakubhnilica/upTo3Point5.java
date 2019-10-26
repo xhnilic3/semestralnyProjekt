@@ -35,7 +35,9 @@ public class upTo3Point5 extends Vehicle {
         return this.category;
     }
 
-    public TypeOfFuel getFuel() { return this.fuel; }
+    public TypeOfFuel getFuel() {
+        return this.fuel;
+    }
 
     public boolean getTypeOfAd(){ return this.typeOfAd; }
 
