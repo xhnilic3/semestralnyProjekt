@@ -1,29 +1,15 @@
 package com.jakubhnilica;
 
-import java.util.Locale;
-
-public class upTo3Point5 extends Vehicle {
-
-    private Category category = Category.UP_TO_3POINT5;
+public class above3Point5 extends Vehicle {
+    private Category category = Category.ABOVE_3POINT5;
     private TypeOfFuel fuel;
 
-    public upTo3Point5(boolean typeOfAd, TypeOfFuel fuel, Category category, int mileage){
+    public above3Point5(boolean typeOfAd, TypeOfFuel fuel, Category category, int mileage){
         this.typeOfAd = typeOfAd;
         this.fuel = fuel;
         this.category = category;
         this.mileage = mileage;
     }
-
-    protected enum Brand {
-        SKODA,
-        VOLKSWAGEN,
-        FORD,
-        PEUGEOT,
-        FIAT,
-        SEAT
-    }
-
-
 
     public void setFuel(TypeOfFuel fuel) { this.fuel = fuel; }
 

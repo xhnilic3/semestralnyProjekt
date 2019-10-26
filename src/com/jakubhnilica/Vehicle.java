@@ -4,7 +4,7 @@ public class Vehicle {
 
     protected enum Category {
         UP_TO_3POINT5,
-        OVER_3POINT5,
+        ABOVE_3POINT5,
         MOTOCYCLES,
         BUS,
         ATV
