@@ -22,8 +22,10 @@ public class Vehicle {
 
     boolean typeOfAd; // true - offer, false - demand
     /*porozmyslat, ci nespravit naku triedu inzerat*/
-    protected int numOfWheels;
-    protected int numOfDoors;
-    protected int yearOfProduction;
-    protected double price;
+    int numOfWheels;
+    int numOfDoors;
+    int yearOfProduction;
+    double price;
+    int mileage;
+    /*Porozmyslat, ci chcem visibility aj von z balicka (pri subclass)*/
 }
