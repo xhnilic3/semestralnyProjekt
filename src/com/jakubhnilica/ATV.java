@@ -7,5 +7,8 @@ public class ATV extends Vehicle {
         this.fuel = fuel;
         this.mileage = mileage;
         this.category = Category.ATV;
+        this.numOfDoors = 0;
+        this.numOfWheels = 4;
+        
     }
 }

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/ATV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/ATV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/ATV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Vehicle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +79,8 @@
       <workItem from="1572087293871" duration="1015000" />
       <workItem from="1572090510237" duration="706000" />
       <workItem from="1572093135589" duration="1294000" />
-      <workItem from="1572104531018" duration="12830000" />
+      <workItem from="1572104531018" duration="13600000" />
+      <workItem from="1572203600744" duration="1449000" />
     </task>
     <task id="LOCAL-00001" summary="testing of git tool in IntelliJ">
       <created>1572114764834</created>
@@ -129,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572125922739</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new classed added">
+      <created>1572126577090</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572126577090</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +152,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -157,6 +168,7 @@
     <MESSAGE value="Refactoring (changes of names of Classes)" />
     <MESSAGE value="a) Refactoring (changes of names of Classes)&#10;b) removal of reduntant initialization (it will be done later via constructor)" />
     <MESSAGE value="constructors edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructors edit" />
+    <MESSAGE value="new classed added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new classed added" />
   </component>
 </project>

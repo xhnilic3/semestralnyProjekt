@@ -1,5 +1,6 @@
 package com.jakubhnilica;
-
+/*TODO
+*  pozriet si tie veci od Adama, premysliet, implementovat*/
 public class Vehicle {
 
     Category category;
