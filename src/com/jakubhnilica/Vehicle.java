@@ -33,6 +33,13 @@ public class Vehicle {
     int mileage;
     /*Porozmyslat, ci chcem visibility aj von z balicka (pri subclass)*/
 
+    public Vehicle(boolean typeOfAd, TypeOfFuel fuel, int mileage, Category category){
+        this.typeOfAd = typeOfAd;
+        this.fuel = fuel;
+        this.mileage = mileage;
+        this.category = category;
+    }
+
     public void setFuel(TypeOfFuel fuel) { this.fuel = fuel; }
 
     public void setPrice(double price) { this.price = price; }
