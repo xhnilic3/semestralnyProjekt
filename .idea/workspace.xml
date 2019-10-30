@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/CarProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/ATV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/ATV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Above3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Above3Point5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Motocycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Motocycles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/UpTo3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/UpTo3Point5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/ATV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/ATV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Above3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Above3Point5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Motocycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Motocycles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/UpTo3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/UpTo3Point5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Vehicle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,6 +43,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,6 +89,8 @@
       <workItem from="1572093135589" duration="1294000" />
       <workItem from="1572104531018" duration="13600000" />
       <workItem from="1572203600744" duration="2095000" />
+      <workItem from="1572358980593" duration="914000" />
+      <workItem from="1572427013543" duration="4215000" />
     </task>
     <task id="LOCAL-00001" summary="testing of git tool in IntelliJ">
       <created>1572114764834</created>

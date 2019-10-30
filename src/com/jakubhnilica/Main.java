@@ -1,5 +1,8 @@
 package com.jakubhnilica;
 
+import vehicles.UpTo3Point5;
+import vehicles.Vehicle;
+
 public class Main {
 
     public static void main(String[] args) {

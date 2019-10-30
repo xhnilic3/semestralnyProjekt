@@ -1,4 +1,6 @@
-package com.jakubhnilica;
+package vehicles;
+
+import vehicles.Vehicle;
 
 public class Above3Point5 extends Vehicle {
 

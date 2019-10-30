@@ -1,4 +1,4 @@
-package com.jakubhnilica;
+package vehicles;
 /*TODO
 *  pozriet si tie veci od Adama, premysliet, implementovat*/
 public class Vehicle {
@@ -14,7 +14,7 @@ public class Vehicle {
         ATV
     }
 
-    protected enum TypeOfFuel  {
+    public enum TypeOfFuel  {
         PETROL,
         DIESEL,
         PETROL_AND_LPG,
@@ -26,11 +26,11 @@ public class Vehicle {
 
     boolean typeOfAd; // true - offer, false - demand
     /*porozmyslat, ci nespravit naku triedu inzerat*/
-    int numOfWheels;
-    int numOfDoors;
-    int yearOfProduction;
-    double price;
-    int mileage;
+    private int numOfWheels;
+    private int numOfDoors;
+    private int yearOfProduction;
+    private double price;
+    private int mileage;
     /*Porozmyslat, ci chcem visibility aj von z balicka (pri subclass)*/
 
     public Vehicle(boolean typeOfAd, TypeOfFuel fuel, int mileage, Category category){
@@ -75,4 +75,5 @@ public class Vehicle {
     public int getNumOfDoors() { return this.numOfDoors; }
 
     public int getNumOfWheels() { return this.numOfWheels; }
+
 }
