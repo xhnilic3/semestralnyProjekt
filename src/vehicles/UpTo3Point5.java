@@ -9,6 +9,7 @@ public class UpTo3Point5 extends Vehicle {
         super(typeOfAd, fuel, mileage, Category.UP_TO_3POINT5);
     }
 
+
     protected enum Brand {
         SKODA,
         VOLKSWAGEN,

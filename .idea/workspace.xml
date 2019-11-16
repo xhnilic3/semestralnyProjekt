@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/CarProvider.java" afterDir="false" />
+    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="cannot describe, i should commit much more often">
+      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/ATV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/ATV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Above3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Above3Point5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Vehicle$Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Vehicle$TypeOfFuel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/CarProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Motocycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Motocycles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/UpTo3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/UpTo3Point5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vehicles/UpTo3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/UpTo3Point5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Vehicle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seminar1" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -91,6 +95,25 @@
       <workItem from="1572203600744" duration="2095000" />
       <workItem from="1572358980593" duration="914000" />
       <workItem from="1572427013543" duration="4215000" />
+      <workItem from="1572518349942" duration="392000" />
+      <workItem from="1573025281174" duration="897000" />
+      <workItem from="1573026215429" duration="2028000" />
+      <workItem from="1573035447305" duration="599000" />
+      <workItem from="1573410922212" duration="2201000" />
+      <workItem from="1573471342872" duration="989000" />
+      <workItem from="1573472985392" duration="20000" />
+      <workItem from="1573473534496" duration="378000" />
+      <workItem from="1573473942545" duration="29000" />
+      <workItem from="1573474551018" duration="647000" />
+      <workItem from="1573503791065" duration="1206000" />
+      <workItem from="1573550856644" duration="801000" />
+      <workItem from="1573553933210" duration="1815000" />
+      <workItem from="1573578283992" duration="683000" />
+      <workItem from="1573590253763" duration="1160000" />
+      <workItem from="1573628655814" duration="2593000" />
+      <workItem from="1573753948612" duration="555000" />
+      <workItem from="1573831887993" duration="364000" />
+      <workItem from="1573911146277" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="testing of git tool in IntelliJ">
       <created>1572114764834</created>
@@ -187,6 +210,7 @@
     <MESSAGE value="constructors edit" />
     <MESSAGE value="new classed added" />
     <MESSAGE value="Class Customer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Customer" />
+    <MESSAGE value="cannot describe, i should commit much more often" />
+    <option name="LAST_COMMIT_MESSAGE" value="cannot describe, i should commit much more often" />
   </component>
 </project>

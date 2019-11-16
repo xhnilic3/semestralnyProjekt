@@ -1,10 +1,14 @@
 package vehicles;
+
+import java.util.ArrayList;
+import java.util.List;
+
 /*TODO
 *  pozriet si tie veci od Adama, premysliet, implementovat*/
 public class Vehicle {
 
-    Category category;
-    TypeOfFuel fuel;
+    private Category category;
+    private TypeOfFuel fuel;
 
     protected enum Category {
         UP_TO_3POINT5,
@@ -22,9 +26,9 @@ public class Vehicle {
         HYBRID_FUEL,
         HYBRID_DIESEL,
         ELECTRO
-    };
+    }
 
-    boolean typeOfAd; // true - offer, false - demand
+    private boolean typeOfAd; // true - offer, false - demand
     /*porozmyslat, ci nespravit naku triedu inzerat*/
     private int numOfWheels;
     private int numOfDoors;
@@ -32,12 +36,15 @@ public class Vehicle {
     private double price;
     private int mileage;
     /*Porozmyslat, ci chcem visibility aj von z balicka (pri subclass)*/
+    //Vehicle[] allVehicles = new Vehicle[100];
+    private static List<Vehicle> allVehicles = new ArrayList<>();
 
     public Vehicle(boolean typeOfAd, TypeOfFuel fuel, int mileage, Category category){
         this.typeOfAd = typeOfAd;
         this.fuel = fuel;
         this.mileage = mileage;
         this.category = category;
+        allVehicles.add(this);
     }
 
     public void setFuel(TypeOfFuel fuel) { this.fuel = fuel; }
@@ -76,4 +83,7 @@ public class Vehicle {
 
     public int getNumOfWheels() { return this.numOfWheels; }
 
+    public static List<Vehicle> printVehicles(){
+        return allVehicles;
+    }
 }
