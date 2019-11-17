@@ -7,10 +7,11 @@ public class LoggedIn {
     private static int id;
 
     private LoggedIn(int id) {
-        this.id = id;
+        LoggedIn.id = id;
     }
 
-    public int getId() { return LoggedIn.id; }
+    public static int getId() { return LoggedIn.id; }
+    public static void setId(int id) {LoggedIn.id = id; }
 
     public static LoggedIn getInstance() {
         if (instance == null)

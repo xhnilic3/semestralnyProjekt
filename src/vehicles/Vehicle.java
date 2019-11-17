@@ -3,8 +3,6 @@ package vehicles;
 import java.util.ArrayList;
 import java.util.List;
 
-/*TODO
-*  pozriet si tie veci od Adama, premysliet, implementovat*/
 public class Vehicle {
 
     private Category category;
