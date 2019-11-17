@@ -15,7 +15,6 @@ public class Customer {
     private static List<Vehicle> myVehicles = new ArrayList<Vehicle>();
 
     private static int customerCounter = 0;
-    private int credibility;  // consider, if this shouldn't be removed
     private boolean legalStatus; // distinguish between natural and legal person
 
     public Customer(String firstName, String secondName,  boolean legalStatus) {
