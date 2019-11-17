@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vehicles/ATV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/ATV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vehicles/Above3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Above3Point5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vehicles/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vehicles/Motocycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Motocycles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vehicles/UpTo3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/UpTo3Point5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Vehicle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +102,7 @@
       <workItem from="1573628655814" duration="2593000" />
       <workItem from="1573753948612" duration="555000" />
       <workItem from="1573831887993" duration="364000" />
-      <workItem from="1573911146277" duration="5536000" />
+      <workItem from="1573911146277" duration="6806000" />
     </task>
     <task id="LOCAL-00001" summary="testing of git tool in IntelliJ">
       <created>1572114764834</created>
@@ -182,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573911296438</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add enum Brand to vehicle and addAd to Advertiser + myVehicles">
+      <created>1573980153468</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1573980153468</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +215,7 @@
     <MESSAGE value="Class Customer" />
     <MESSAGE value="cannot describe, i should commit much more often" />
     <MESSAGE value="cannot describe, I should commit much more often" />
-    <option name="LAST_COMMIT_MESSAGE" value="cannot describe, I should commit much more often" />
+    <MESSAGE value="add enum Brand to vehicle and addAd to Advertiser + myVehicles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add enum Brand to vehicle and addAd to Advertiser + myVehicles" />
   </component>
 </project>

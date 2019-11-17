@@ -1,9 +1,5 @@
 package com.jakubhnilica;
 
-import vehicles.ATV;
-import vehicles.Motocycles;
-import vehicles.UpTo3Point5;
-import vehicles.Vehicle;
 import java.util.Scanner;
 import vehicles.*;
 
