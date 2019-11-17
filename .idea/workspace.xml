@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/LoggedIn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +102,7 @@
       <workItem from="1573628655814" duration="2593000" />
       <workItem from="1573753948612" duration="555000" />
       <workItem from="1573831887993" duration="364000" />
-      <workItem from="1573911146277" duration="6806000" />
+      <workItem from="1573911146277" duration="8123000" />
     </task>
     <task id="LOCAL-00001" summary="testing of git tool in IntelliJ">
       <created>1572114764834</created>
@@ -181,7 +181,28 @@
       <option name="project" value="LOCAL" />
       <updated>1573980153468</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit">
+      <created>1573982626877</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1573982626877</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit">
+      <created>1573982641481</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1573982641481</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Customer.credibility removed">
+      <created>1573982713078</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1573982713078</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +237,8 @@
     <MESSAGE value="cannot describe, i should commit much more often" />
     <MESSAGE value="cannot describe, I should commit much more often" />
     <MESSAGE value="add enum Brand to vehicle and addAd to Advertiser + myVehicles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add enum Brand to vehicle and addAd to Advertiser + myVehicles" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Customer.credibility removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Customer.credibility removed" />
   </component>
 </project>
