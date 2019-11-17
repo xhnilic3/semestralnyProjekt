@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="cannot describe, i should commit much more often">
-      <change afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Contact.java" afterDir="false" />
+    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Vehicle$Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Vehicle$TypeOfFuel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/CarProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vehicles/ATV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/ATV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vehicles/Above3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Above3Point5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vehicles/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vehicles/Motocycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Motocycles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/vehicles/UpTo3Point5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/UpTo3Point5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Vehicle.java" afterDir="false" />
     </list>
@@ -113,7 +110,7 @@
       <workItem from="1573628655814" duration="2593000" />
       <workItem from="1573753948612" duration="555000" />
       <workItem from="1573831887993" duration="364000" />
-      <workItem from="1573911146277" duration="104000" />
+      <workItem from="1573911146277" duration="5536000" />
     </task>
     <task id="LOCAL-00001" summary="testing of git tool in IntelliJ">
       <created>1572114764834</created>
@@ -178,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572205079849</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="cannot describe, I should commit much more often">
+      <created>1573911296438</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573911296438</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +215,7 @@
     <MESSAGE value="new classed added" />
     <MESSAGE value="Class Customer" />
     <MESSAGE value="cannot describe, i should commit much more often" />
-    <option name="LAST_COMMIT_MESSAGE" value="cannot describe, i should commit much more often" />
+    <MESSAGE value="cannot describe, I should commit much more often" />
+    <option name="LAST_COMMIT_MESSAGE" value="cannot describe, I should commit much more often" />
   </component>
 </project>

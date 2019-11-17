@@ -9,8 +9,9 @@ public class Vehicle {
 
     private Category category;
     private TypeOfFuel fuel;
+    private Brand brand;
 
-    protected enum Category {
+    public enum Category {
         UP_TO_3POINT5,
         ABOVE_3POINT5,
         MOTOCYCLES,
@@ -28,6 +29,15 @@ public class Vehicle {
         ELECTRO
     }
 
+    public enum Brand {
+        SKODA,
+        VOLKSWAGEN,
+        FORD,
+        PEUGEOT,
+        FIAT,
+        SEAT
+    }
+
     private boolean typeOfAd; // true - offer, false - demand
     /*porozmyslat, ci nespravit naku triedu inzerat*/
     private int numOfWheels;
@@ -39,13 +49,17 @@ public class Vehicle {
     //Vehicle[] allVehicles = new Vehicle[100];
     private static List<Vehicle> allVehicles = new ArrayList<>();
 
-    public Vehicle(boolean typeOfAd, TypeOfFuel fuel, int mileage, Category category){
+    public Vehicle(boolean typeOfAd, TypeOfFuel fuel, int mileage, Category category,
+                    Brand brand){
         this.typeOfAd = typeOfAd;
         this.fuel = fuel;
         this.mileage = mileage;
         this.category = category;
+        this.brand = brand;
         allVehicles.add(this);
     }
+
+   // public Vehicle() {};
 
     public void setFuel(TypeOfFuel fuel) { this.fuel = fuel; }
 
@@ -82,6 +96,8 @@ public class Vehicle {
     public int getNumOfDoors() { return this.numOfDoors; }
 
     public int getNumOfWheels() { return this.numOfWheels; }
+
+    public Brand getBrand() { return this.brand; }
 
     public static List<Vehicle> printVehicles(){
         return allVehicles;
