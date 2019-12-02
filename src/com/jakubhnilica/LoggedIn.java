@@ -10,8 +10,8 @@ public class LoggedIn {
         LoggedIn.id = id;
     }
 
-    public static int getId() { return LoggedIn.id; }
-    public static void setId(int id) {LoggedIn.id = id; }
+    protected static int getId() { return LoggedIn.id; }
+    protected static void setId(int id) {LoggedIn.id = id; }
 
     public static LoggedIn getInstance() {
         if (instance == null)

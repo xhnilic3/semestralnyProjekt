@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="">
+    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="some cleaning process">
+      <change afterPath="$PROJECT_DIR$/diagram.uml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Advertiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Advertiser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$Brand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$Brand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$TypeOfFuel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$TypeOfFuel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/LoggedIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/LoggedIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicles/Vehicle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +42,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seminar1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,7 +112,11 @@
       <workItem from="1573628655814" duration="2593000" />
       <workItem from="1573753948612" duration="555000" />
       <workItem from="1573831887993" duration="364000" />
-      <workItem from="1573911146277" duration="8949000" />
+      <workItem from="1573911146277" duration="12791000" />
+      <workItem from="1574017360617" duration="4082000" />
+      <workItem from="1574233436455" duration="2871000" />
+      <workItem from="1574845791695" duration="651000" />
+      <workItem from="1575275116201" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="testing of git tool in IntelliJ">
       <created>1572114764834</created>
@@ -211,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573984095333</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="some cleaning process">
+      <created>1573985018409</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1573985018409</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +268,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Customer.credibility removed" />
     <MESSAGE value="Singleton LoggedIn - needs to be implemented into login mechanism somehow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Singleton LoggedIn - needs to be implemented into login mechanism somehow" />
+    <MESSAGE value="some cleaning process" />
+    <option name="LAST_COMMIT_MESSAGE" value="some cleaning process" />
   </component>
 </project>

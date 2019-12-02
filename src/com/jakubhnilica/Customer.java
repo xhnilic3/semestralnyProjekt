@@ -9,8 +9,9 @@ public class Customer {
     private String firstName;
     private String secondName;
     private Contact contact = new Contact();
+    private static LoggedIn loggedIn = LoggedIn.getInstance();
     private int id;
-    private static int loggedIn;
+
 
     private static List<Vehicle> myVehicles = new ArrayList<Vehicle>();
 
@@ -44,15 +45,15 @@ public class Customer {
     }
 
     public void logIn() {
-        Customer.setLoggedIn(this.id);
+        LoggedIn.setId(this.id);
     }
 
     private static void setLoggedIn(int id) {
-        Customer.loggedIn = id;
+        LoggedIn.setId(id);
     }
 
     public static int getLoggedIn() {
-        return Customer.loggedIn;
+        return LoggedIn.getId();
     }
 
 }
