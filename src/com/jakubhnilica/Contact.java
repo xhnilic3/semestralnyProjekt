@@ -7,6 +7,7 @@ package com.jakubhnilica;
 
     /*
     * phone number should be mandatory, others optional*/
+    // Overload
      public Contact(String phoneNumber) {
          this.phoneNumber = phoneNumber;
      }
@@ -37,3 +38,4 @@ package com.jakubhnilica;
          this.phoneNumber = phoneNumber;
      }
  }
+

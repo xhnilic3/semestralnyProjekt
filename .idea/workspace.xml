@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="some cleaning process">
-      <change afterPath="$PROJECT_DIR$/diagram.uml" afterDir="false" />
+    <list default="true" id="520dfad3-e6d8-44a9-b7c9-05d8ec8c556e" name="Default Changelist" comment="refactor#0 - used class UpTo3Point5 instead of generic Vehicle class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Advertiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Advertiser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/com/jakubhnilica/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$Brand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$Brand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$TypeOfFuel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle$TypeOfFuel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semestralnyProjekt/vehicles/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Advertiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jakubhnilica/LoggedIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jakubhnilica/LoggedIn.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +107,8 @@
       <workItem from="1574017360617" duration="4082000" />
       <workItem from="1574233436455" duration="2871000" />
       <workItem from="1574845791695" duration="651000" />
-      <workItem from="1575275116201" duration="559000" />
+      <workItem from="1575275116201" duration="1306000" />
+      <workItem from="1575302420656" duration="2401000" />
     </task>
     <task id="LOCAL-00001" summary="testing of git tool in IntelliJ">
       <created>1572114764834</created>
@@ -230,7 +222,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573985018409</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="i have no idea">
+      <created>1575275759025</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575275759025</updated>
+    </task>
+    <task id="LOCAL-00018" summary="refactor#0 - used class UpTo3Point5 instead of generic Vehicle class">
+      <created>1575275825361</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575275825361</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +275,8 @@
     <MESSAGE value="Customer.credibility removed" />
     <MESSAGE value="Singleton LoggedIn - needs to be implemented into login mechanism somehow" />
     <MESSAGE value="some cleaning process" />
-    <option name="LAST_COMMIT_MESSAGE" value="some cleaning process" />
+    <MESSAGE value="i have no idea" />
+    <MESSAGE value="refactor#0 - used class UpTo3Point5 instead of generic Vehicle class" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor#0 - used class UpTo3Point5 instead of generic Vehicle class" />
   </component>
 </project>

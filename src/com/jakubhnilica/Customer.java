@@ -30,6 +30,10 @@ public class Customer {
 
     private static int getCustomerCounter() { return customerCounter; }
 
+    /*TODO
+    *  solve the problem of multiple choices within
+    * setting contact attributes  (use Swing)*/
+
     public void setContact() {
         Scanner scanContact = new Scanner(System.in);
         System.out.println("Set e-mail address:");
