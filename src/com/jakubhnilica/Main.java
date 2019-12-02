@@ -22,8 +22,8 @@ public class Main {
         Advertiser advertiser1 = new Advertiser("Jakub", "Hnilica", false);
         Advertiser advertiser2 = new Advertiser("Jan", "Mrkva", true);
         advertiser.setContact();
-        advertiser.addAd(new Vehicle(false, Vehicle.TypeOfFuel.DIESEL, 12587,
-                Vehicle.Category.UP_TO_3POINT5, Vehicle.Brand.SEAT));
+        advertiser.addAd(new UpTo3Point5(false, Vehicle.TypeOfFuel.DIESEL, 12587,
+                Vehicle.Brand.SEAT));
 
     }
 }
